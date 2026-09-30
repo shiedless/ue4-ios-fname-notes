@@ -221,4 +221,11 @@ void HookedProcessEvent(uintptr_t obj, uintptr_t fn, void* parms) {
 
 ---
 
+<p align="center">
+  <sub><b>part 5 of 7</b> in the <a href="https://github.com/shiedless/ios-ue4-re">ios-ue4-re</a> series</sub><br>
+  <sub>← <a href="https://github.com/shiedless/ue4-ios-gworld-gnames-notes">ue4-ios-gworld-gnames-notes</a> · <a href="https://github.com/shiedless/ios-ue4-re">index</a> · <a href="https://github.com/shiedless/ue4-ios-processevent-notes">ue4-ios-processevent-notes</a> →</sub>
+</p>
+
+---
+
 <p align="center">— shiedless</p>
